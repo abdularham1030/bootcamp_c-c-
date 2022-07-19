@@ -5,7 +5,6 @@ int main ()
 
     int i,j=1,n;
     float sq,k;
-    /*
     //problem 1
     printf("enter the numbers of lines :");
     scanf("%d",&n);
@@ -61,7 +60,7 @@ int main ()
     {
         printf("%d\n",i*2-1);
     }
-    */
+
 
     //problem 8
     printf("enter the numbers of lines :");
